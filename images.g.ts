@@ -1,3 +1,30 @@
+namespace myImages {
+    helpers._registerFactory("image", function(name: string) {
+        switch(helpers.stringTrim(name)) {
+            case "brick_hell_01":
+                return img`
+                cccccccccccccccb
+                ddddddddddbbdd
+                bdbbddbbbbbbcdd
+                bbbbbbbbbbbbcdd
+                bbbbbbbbbbbbcdd
+                bbbbbbbbbbbcdb
+                bbbbbbbbbb7cdb
+                eeeeeeeeeeeeeee
+                cccccbccccccccb
+                dddbddddddddddd
+                bbbbcddbbdbbddd
+                bbbbcdbbbbbbbbd
+                bbbbcdbbbbbbbbd
+                bbbbcdbbbbbbbbb
+                bbb7cdbbbbbbbbb
+                e7eeebeeeeeeeeb
+                `;
+        }
+        return null;
+    });
+}
+
 // Automatisch generierter Code. Nicht bearbeiten.
 namespace myImages {
 
