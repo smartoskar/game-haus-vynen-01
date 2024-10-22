@@ -4,10 +4,10 @@
         "mimeType": "image/x-mkcd-f4",
         "displayName": "Testbild-Asset1"
     },
-    "image1": {
+    "newImage": {
         "data": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAYBQTFRF9PTMurqWeXlipqZl19extLSLsrKM5OTBtbWNvr6ak5NNcHBefHw+p6d0rKx+lZVRbW1bhoZuu7uauLiVtLSPsLCLrq6Cr6+ArKyAjo5GlZVV4+O9traO0NCq0dGoeXk5ysqrs7OJkZFKsrKKsLCE09Otm5tddHRdd3dg29u3traTs7OOsbGJbm5ctbWRmppbdnZftLSR3Ny3t7ePubmVt7eJxMSgwMCfubmQs7OQvLyZv7+Yv7+ctbWQxsaisbGGfX1ptbWS2Niyqqp3y8unTk486enJWVkKT08w2dm0mZlc3d23qKh1ycmlcHBa1dWufX1luLiTe3s9eHg3x8epwcGjwsKlnp5fb28Zf39vY2M/u7uU6OjBd3c4hYVE0tKqnp5gra2CtLSJf39A3t64e3tlXFw+3d21vr6i3t63RkY5o6NuwsKe4eG85ua/4uLA4OC3d3c1srKHdXVlwMCd2tq1dnZdVFQ7gIBBi4tU2tqzra2G3d22hoZziYlwoKBZtYlGEwAAAQhJREFUeNpiKNbVFdAVAAJdXe7yLIdIBnYW/xrvzLwY6aqUAuY6hnwG80A7TkYzFxtORitrNQ0WBYZoexsTQz1DE2FtR2N9JqcwBgsRS0VbEVZtRVYRoIBsCYOeBBurGJuylpaMsqkaUzwjgzOvszgra4IPn7hYklSAnBBDsrx8UHJFbGFwMI+8u0dcJYODgQFTmqugurqBgUGZn3otQz6LZjqzIINRLotqqaaRtBuDuQnIfqccRhOQe3wVGITYQPZ76nEUgdyjHcJgoQi2X4dVD+QexVAGIQ6Q/aoqookg9+hkMIjxSdhLpcpWZ/PyJuroeNkz8EvyK0VE1StJcilxcXFJhgMEGACHjTA9e/SnRwAAAABJRU5ErkJggg==",
         "mimeType": "image/x-mkcd-f4",
-        "displayName": "brick-hell-01-16x16.png"
+        "displayName": "brick"
     },
     "*": {
         "mimeType": "image/x-mkcd-f4",
