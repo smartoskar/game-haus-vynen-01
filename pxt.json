@@ -2,7 +2,8 @@
     "name": "Game Haus Vynen 01",
     "description": "",
     "dependencies": {
-        "device": "*"
+        "device": "*",
+        "arcade-sprite-data": "github:microsoft/arcade-sprite-data#v0.2.1"
     },
     "files": [
         "main.blocks",
@@ -12,7 +13,8 @@
         "images.g.jres",
         "images.g.ts",
         "tilemap.g.jres",
-        "tilemap.g.ts"
+        "tilemap.g.ts",
+        "main.py"
     ],
     "testFiles": [
         "test.ts"
@@ -24,5 +26,5 @@
     "supportedTargets": [
         "arcade"
     ],
-    "preferredEditor": "blocksprj"
+    "preferredEditor": "tsprj"
 }
